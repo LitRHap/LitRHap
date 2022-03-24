@@ -12,4 +12,4 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=LitRHap&show_icons=true&theme=radical)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=LitRHap&layout=compact&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=LitRHap&repo=wabot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=LitRHap&repo=self-wa&theme=dark)
